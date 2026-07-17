@@ -1,16 +1,18 @@
 # Projects
 
-This page is the index of active, historical, and planned bodies of work.
+Projects are one category within Thirsty-101—not the purpose or boundary of the repository.
 
-A project entry belongs here when it has an identifiable purpose and an authoritative source such as a repository, paper, specification, dataset, or maintained document.
+This page indexes organized efforts I am building, planning, studying, maintaining, or preserving. Project-AI may live here alongside any other project, but thoughts and material do not need to become projects in order to belong elsewhere in Thirsty-101.
 
 ## Project index
 
-| Project | Purpose | Status | Source | Related concepts | Current question |
+| Project | Purpose | Status | Source | Related entries | Current question |
 |---|---|---|---|---|---|
-| _Not yet mapped_ | _One-sentence purpose_ | _Exploring / Designing / Implementing / Operational / Paused / Superseded_ | _Authoritative link_ | _Links into the mind map_ | _Most important unresolved question_ |
+| _Not yet mapped_ | _One-sentence purpose_ | _Exploring / Designing / Implementing / Operational / Paused / Superseded_ | _Link, folder, or note_ | _Connections across Thirsty-101_ | _Most important unresolved question_ |
 
-## Project entry format
+## Optional project entry format
+
+Use only the fields that help document the actual project.
 
 ### Project name
 
@@ -18,38 +20,39 @@ A project entry belongs here when it has an identifiable purpose and an authorit
 What the project exists to accomplish.
 
 **Status:**  
-Its actual present state, not its intended future state.
+Its actual present state, not only its intended future state.
 
-**Authoritative source:**  
-The repository, paper, specification, or record that controls the implementation or claim.
+**Location:**  
+The repository, folder, paper, specification, notebook, or other place where its material lives.
 
-**Problem addressed:**  
-The condition that made the project necessary.
+**Origin:**  
+The thought, experience, need, question, conversation, or earlier work that led to it.
 
 **Operating idea:**  
-The central mechanism or approach in plain language.
+The central approach in plain language.
 
-**Dependencies:**  
-What it requires conceptually, technically, or organizationally.
+**Connections:**  
+People, ideas, experiences, questions, references, decisions, and other projects tied to it.
 
-**Outputs:**  
-What currently exists: code, papers, standards, diagrams, experiments, releases, or demonstrations.
+**What exists now:**  
+Code, writing, notes, diagrams, experiments, releases, demonstrations, or other concrete material.
 
-**Not yet implemented:**  
-Capabilities that are designed or proposed but do not materially exist yet.
+**What does not exist yet:**  
+Planned or imagined elements that have not been built or completed.
 
 **Open questions:**  
-The uncertainties that could change the architecture, scope, or validity of the project.
+Uncertainties that could change its direction, meaning, architecture, or scope.
 
 **History:**  
-Important transitions, including earlier names or superseded approaches.
+Important transitions, earlier forms, and changes of mind.
 
 ## Accuracy rule
 
-Never collapse the following into one status:
+When status matters, distinguish among:
 
 - imagined;
 - proposed;
+- documented;
 - specified;
 - prototyped;
 - tested;
@@ -57,4 +60,4 @@ Never collapse the following into one status:
 - deployed;
 - independently verified.
 
-The public interface should make those distinctions easier to see, not easier to overlook.
+These distinctions apply to project claims. They are not requirements imposed on ordinary thoughts, memories, or fragments elsewhere in the repository.
