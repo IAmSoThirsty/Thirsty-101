@@ -1,0 +1,41 @@
+# Inbox
+
+This is the unrestricted capture point for Thirsty-101.
+
+Anything I want to remember, examine, connect, explain, or return to can begin here. It does not need to be a project, a finished idea, important to anyone else, or placed in the correct category first.
+
+Possible entries include:
+
+- a thought;
+- a memory;
+- a question;
+- something someone said;
+- an observation;
+- a project note;
+- a reference or link;
+- an experience;
+- a contradiction;
+- a fragment that does not make sense yet;
+- something funny, strange, useful, disturbing, or unresolved;
+- anything else I decide belongs in my documented mind.
+
+## Capture
+
+Add new material below without stopping to design its final location.
+
+---
+
+_No entries yet._
+
+## Processing rule
+
+An inbox item can later be:
+
+- expanded into its own document;
+- connected to another item;
+- added to the index;
+- moved into a subject folder;
+- marked resolved or superseded;
+- left exactly where it is.
+
+Organization serves memory. Capture does not serve organization.
