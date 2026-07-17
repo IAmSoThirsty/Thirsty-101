@@ -1,46 +1,50 @@
 # Entry title
 
-> One sentence stating what this entry documents.
+> Write the thing before deciding what kind of thing it is.
 
-**State:** Observation / Interpretation / Hypothesis / Decision / Implementation / Superseded  
-**Status:** Draft / Active / Stable / Blocked / Historical  
-**Last reviewed:** YYYY-MM-DD  
-**Authoritative source:** Link or `None — this entry is the source`
+**Type:** Fragment / Thought / Memory / Observation / Question / Idea / Person / Place / Experience / Reference / Decision / Project / Other  
+**Created:** YYYY-MM-DD  
+**Status:** Raw / Developing / Connected / Stable / Changed / Superseded  
 
-## What this is
+Only the title and the entry itself are necessary. Every field below is optional.
 
-Describe the subject in plain language before introducing specialized terms.
+## Entry
 
-## Why it exists
+Record what I want to preserve in the form that fits it: a sentence, story, list, explanation, image link, quotation, question, argument, memory, or unfinished fragment.
 
-State the problem, need, question, or relationship that made this entry necessary.
+## Why I kept it
 
-## Current understanding
+What made this worth recording, even if the reason is only a feeling or cannot yet be explained.
 
-Record what is presently believed or established. Distinguish evidence from interpretation.
+## Context
+
+Where it came from: a time, place, person, conversation, experience, source, project, or train of thought.
 
 ## Connections
 
-- **Depends on:**
-- **Implements:**
-- **Governs:**
-- **Evidenced by:**
+- **Reminds me of:**
+- **Came from:**
+- **Led to:**
 - **Related to:**
-- **Conflicts with:**
-- **Supersedes / superseded by:**
+- **Contradicts:**
+- **Changed by:**
+- **Appears again in:**
+- **May connect to:**
 
-## Evidence and sources
+Add different relationship language whenever it is more accurate.
 
-Link to the relevant repositories, files, papers, records, experiments, discussions, or external sources.
+## Current understanding
 
-## Uncertainty
+What I currently think this means. This may be incomplete, personal, uncertain, or later proven wrong.
 
-State what is unknown, weakly supported, contested, or likely to change.
+## Sources
 
-## History
+Add links or evidence when they are relevant. A personal thought, memory, or raw fragment does not require an authoritative source.
 
-Record meaningful transitions in the idea, project, or document. Do not erase earlier states merely because the current state is clearer.
+## What changed
 
-## Next action
+Record later shifts in memory, meaning, interpretation, confidence, or importance without erasing the earlier state.
 
-Identify the next action that would most improve understanding, implementation, verification, or navigation.
+## Open edge
+
+What remains unfinished, unclear, unresolved, or worth returning to.
