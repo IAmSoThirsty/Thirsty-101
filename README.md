@@ -1,46 +1,56 @@
 # Thirsty-101
 
-**A public interface to the way I think, build, question, and connect systems.**
+**Documentation for my mind, made publicly navigable.**
 
-This repository is not intended to be a polished biography or a conventional portfolio. It is a navigable documentation layer over an active mind and an evolving body of work.
+Thirsty-101 is where I can document anything I want to retain, examine, connect, explain, or return to.
 
-The purpose is twofold:
+It is not limited to Project-AI, technical work, formal projects, research, or finished ideas. Those things may live here, but they do not define the boundary.
 
-1. Give me a place to externalize, organize, and recover my own thinking.
-2. Give other people a coherent path into that thinking without requiring them to begin at the end.
+This repository may contain:
+
+- thoughts and fragments;
+- memories and experiences;
+- questions and contradictions;
+- projects and systems;
+- people, conversations, and influences;
+- references, links, media, and source material;
+- decisions and changes of mind;
+- observations, theories, jokes, patterns, and unfinished ideas;
+- anything else I decide belongs in the documented interface to my mind.
+
+## What it does
+
+1. **Capture** — give thoughts somewhere to exist before they disappear.
+2. **Connect** — reveal relationships across subjects, times, experiences, and projects.
+3. **Expose** — let another person navigate what I choose to make public without pretending it was created for them first.
 
 ## Start here
 
-- [Orientation](docs/START-HERE.md) — what this repository is and how to read it
-- [Mind Map](docs/MIND-MAP.md) — the major domains and how they connect
-- [Projects](docs/PROJECTS.md) — active systems, repositories, and bodies of work
-- [Decisions](docs/DECISIONS.md) — important choices and the reasoning behind them
-- [Open Questions](docs/OPEN-QUESTIONS.md) — unresolved problems, uncertainties, and next investigations
-- [Glossary](docs/GLOSSARY.md) — terms, names, and concepts used across the work
+- [Orientation](docs/START-HERE.md) — what this repository is and how to use it
+- [Inbox](docs/INBOX.md) — raw capture without forced classification
+- [Index](docs/INDEX.md) — the living map of what exists
+- [Mind Map](docs/MIND-MAP.md) — connections across the whole repository
+- [Threads](docs/THREADS.md) — recurring ideas, patterns, and concerns
+- [Projects](docs/PROJECTS.md) — one category among everything else
+- [Decisions](docs/DECISIONS.md) — choices worth preserving with their context
+- [Open Questions](docs/OPEN-QUESTIONS.md) — unresolved questions
+- [Glossary](docs/GLOSSARY.md) — terms that need a specific meaning here
 
-## Reading model
+## Operating rules
 
-This repository should be read as a map, not as a linear book.
+- Capture first. Organize when organization becomes useful.
+- Nothing has to become a project to belong here.
+- A fragment may remain a fragment.
+- Structure follows the contents; the contents do not exist to satisfy the structure.
+- Connections matter more than perfect categories.
+- Contradictions and changes of mind remain visible.
+- Evidence and sources are useful when a claim requires them, but personal thoughts do not need to imitate technical papers.
+- Project-AI and every other project are contents of this mind, not the frame around it.
 
-Each entry should answer at least one of these questions:
+## Public boundary
 
-- What is this?
-- Why does it exist?
-- What does it connect to?
-- What changed?
-- What remains unresolved?
-- Where is the evidence or implementation?
-
-## Documentation rules
-
-- Preserve uncertainty instead of rewriting it as confidence.
-- Separate observation, interpretation, hypothesis, and decision.
-- Link claims to their source, implementation, or supporting record.
-- Record why a direction changed, not only the new direction.
-- Prefer small connected documents over one enormous undifferentiated document.
-- Mark incomplete material honestly.
-- Do not erase superseded thinking; link it to what replaced it.
+This repository is public. Anything placed here should be treated as intentionally visible to other people. Private information, secrets, credentials, and material that could harm someone by being exposed do not belong in the public repository.
 
 ## Status
 
-This repository is at its beginning. Its current contents define the interface and documentation method. The actual map will grow as existing work and future thought are connected into it.
+This is the beginning of a public external mind. Its shape is allowed to change as its actual contents reveal what structure they need.
