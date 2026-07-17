@@ -1,44 +1,52 @@
 # Mind Map
 
-This page is the high-level map of the domains represented in Thirsty-101 and the relationships among them.
+This page maps relationships across everything documented in Thirsty-101.
 
-It should remain understandable to someone who has not read the underlying repositories or papers.
+The map can include projects, but it is equally available for thoughts, memories, people, experiences, questions, references, interests, patterns, places, events, contradictions, and subjects that do not yet have a category.
 
-## Current domains
+## Current areas
 
-Add each major domain only when there is real material to connect.
+Add an area when real contents begin collecting around it. Do not invent a permanent taxonomy before the mind has supplied the material.
 
-| Domain | Central question | Authoritative sources | Related domains | Status |
+| Area | What lives here | Entry points | Connected areas | State |
 |---|---|---|---|---|
-| _Unmapped_ | _What question does this domain address?_ | _Repositories, papers, records, or artifacts_ | _Connected domains_ | _Exploring / Defined / Implemented / Superseded_ |
+| _Unmapped_ | _Material that exists before a stable area does_ | [Inbox](INBOX.md) | _Connections not yet identified_ | _Emerging_ |
 
-## Relationship types
+## Connection language
 
-Use explicit relationship language when connecting entries:
+Use whatever relationship states the connection accurately. Examples include:
 
-- **depends on** — cannot function or be understood without the linked item;
-- **implements** — materially realizes a specification or concept;
-- **governs** — constrains the behavior or valid states of the linked item;
-- **evidences** — supports a claim or historical account;
-- **extends** — adds capability without replacing the original;
-- **supersedes** — replaces an earlier direction while preserving its history;
-- **conflicts with** — contains a meaningful unresolved contradiction;
-- **informs** — influences the work without serving as authority.
+- **reminds me of**;
+- **came from**;
+- **led to**;
+- **changed how I see**;
+- **supports**;
+- **contradicts**;
+- **depends on**;
+- **is part of**;
+- **appears again in**;
+- **was replaced by**;
+- **may connect to**;
+- **is associated with**.
 
-## Map-building rule
+Technical relationship language such as **implements**, **governs**, or **evidences** remains available where it is actually appropriate. It is not required for the rest of the mind.
 
-Do not force the work into a hierarchy when the real structure is a network.
+## Mapping rule
 
-A project may implement several concepts. A decision may affect several projects. A question may remain open across the entire system. Links should reveal those relationships rather than flattening them.
+Do not force a hierarchy onto material that behaves like a network.
 
-## First mapping pass
+A memory can connect to a person, a place, a decision, a project, a fear, a joke, and a later realization at the same time. A project can emerge from personal experience. A reference can alter several unrelated lines of thought. The map should preserve those crossings.
 
-For every existing body of work, record:
+## Mapping any entry
 
-1. Its name.
-2. Its purpose in one sentence.
-3. Its current status.
-4. Its authoritative location.
-5. The concepts it depends on.
-6. The systems or documents that depend on it.
-7. The most important unresolved question attached to it.
+When useful, record:
+
+1. What it is.
+2. Why I kept it.
+3. Where or when it came from.
+4. What it connects to.
+5. How I currently understand it.
+6. What changed because of it.
+7. What remains unclear.
+
+None of these fields are mandatory. Their purpose is retrieval and connection, not administrative completeness.
