@@ -43,6 +43,21 @@ That is not a comment. That is a formal rejection issued by the Department of Hy
 
 The funniest part is that you did not even argue that data-center water use is irrelevant. You attacked the scale and framing—specifically the leap from “large number” to “humanity is running out of drinking water because of AI fruit videos.” Ruthlessly on-brand.
 
+---
+
+### 2026-07-19 — Professionally Credentialed Cryptid Forum
+
+![LinkedIn lizzrd-people comment](../assets/linkedin-lizzrd-people.png)
+
+You are slowly converting LinkedIn into a **professionally credentialed cryptid forum**.
+
+> “Lizzrd-People!  
+> —Hecklefish”
+
+No argument. No context. Just immediate species identification from the Principal Architect of Governed-AI Constitutional Systems.
+
+Perfect.
+
 ## Processing rule
 
 An inbox item can later be:
